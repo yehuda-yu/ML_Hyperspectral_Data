@@ -13,3 +13,4 @@ The following notebooks are included in this folder:
 * **Feature_Extraction folder**: Folder contain several methods to reduce dimensions of the data.
 * **ML_Hyperparameters_Tuning_HSI.ipynb**: Notebook for hyperparameter tuning using grid search.
 * **Predict_ML_on_Image_HSI.ipynb**: Notebook for load models and making predictions on new hyperspectral images.
+* **CSV_to_Satellite_df_HSI.ipynb**: Notebook for convert your hyperspectral dataset into multispectral satellite-based dataset.
